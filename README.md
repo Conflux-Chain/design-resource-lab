@@ -1,7 +1,7 @@
 Do these awesome things
 
-✅ Use the Conflux logo to link to confluxnetwork.org
-✅ Use the ConfluxBounty logo to link to bounty.conflux-chain.org
+✅ Use the Conflux logo to link to confluxnetwork.org/n
+✅ Use the ConfluxBounty logo to link to bounty.conflux-chain.org/n
 ✅ Use the ConfluxForum logo to link to forum.conflux.fun
 ✅ Use the ConfluxPortal logo to link to portal.conflux-chain.org
 ✅ Use ConFi（Kaozai）or Conflux logo to produce posters
