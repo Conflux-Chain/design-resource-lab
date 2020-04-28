@@ -1,6 +1,6 @@
 Do these awesome things
 
-✅ Use the Conflux logo to link to confluxnetwork.org/n
+✅ Use the Conflux logo to link to confluxnetwork.org/br
 ✅ Use the ConfluxBounty logo to link to bounty.conflux-chain.org/n
 ✅ Use the ConfluxForum logo to link to forum.conflux.fun
 ✅ Use the ConfluxPortal logo to link to portal.conflux-chain.org
