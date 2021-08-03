@@ -1,6 +1,6 @@
 # Conflux Design Resources
 
-Please read [Conflux Brand Guidelines](Conflux Brand Guidelines.pdf) first.
+Please read [Conflux Brand Guidelines](https://github.com/Conflux-Chain/design-resource-lab/blob/master/Conflux%20Brand%20Guidelines.pdf) first.
 
 Do these awesome things
 
