@@ -25,7 +25,7 @@
 ### Contact us
 
 - If you want to use artwork not included in this repository  
-- If you want to use these images in a video/mainstream media, please contact: chang.liu@conflux-chain.org  
+- If you want to use these images in a video/mainstream media, please contact: chang.liu@confluxnetwork.org  
 
 
 *Copyright © 2021 Conflux Foundation. All Rights Reserved.*
